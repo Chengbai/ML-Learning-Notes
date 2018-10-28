@@ -1,2 +1,1 @@
-# ML-Learning-Notes
-ML Learning Notes
+# ML notes.
