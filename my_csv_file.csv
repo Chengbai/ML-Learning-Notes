@@ -1,0 +1,3 @@
+created_datetime,doc_type,first_name,key,last_name,mem_list,middle_name
+2018-01-06T12:52:09,PROFILE,Robert,123,John,"{u'mem_num': u'10001', u'mem_flag': [], u'current_flag': u'Y', u'child_mem_list': {u'child_mem_num': []}}",[]
+2018-01-07T11:32:07,PROFILE,Lily,456,Hubert,"{u'mem_num': u'10002', u'mem_flag': u'Y', u'current_flag': u'Y', u'child_mem_list': {u'child_mem_num': []}}",[]
